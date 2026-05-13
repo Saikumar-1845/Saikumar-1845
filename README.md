@@ -6,6 +6,7 @@
 
 - 🌱 I’m currently learning **VLSI Physical Design**   
 - 📫 How to reach me: saikumarkommaraju18@gmail.com  
-
+Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kommaraju-krishna-sai-kumar-7b7608299/)
 
 
