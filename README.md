@@ -13,7 +13,5 @@ __Connect with Me__
 </a>
 
 __Languages and Tools:__
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tcl/tcl-original.svg" width="40" height="40"/>
-</p>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![TCL](https://img.shields.io/badge/TCL-FF0000?style=for-the-badge&logo=tcl&logoColor=white)
