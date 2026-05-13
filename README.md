@@ -13,5 +13,5 @@ __Connect with Me__
 </a>
 
 __Languages and Tools:__
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![TCL](https://img.shields.io/badge/TCL-FF0000?style=for-the-badge&logo=tcl&logoColor=white)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org)
+[![TCL](https://img.shields.io/badge/TCL-FF0000?style=for-the-badge&logo=tcl&logoColor=white)](https://www.tcl-lang.org)
