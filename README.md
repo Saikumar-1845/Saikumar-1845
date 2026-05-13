@@ -2,8 +2,7 @@
 
 <!--
 **Saikumar-1845/Saikumar-1845** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-                        Hi 👋, I'm K.Sai Kumar
+ Hi 👋, I'm K.Sai Kumar
 
 
 
