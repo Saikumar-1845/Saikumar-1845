@@ -16,3 +16,10 @@ __Languages and Tools:__
 [![ICC2](https://img.shields.io/badge/Synopsys-ICC2-purple?style=for-the-badge&logo=synopsys&logoColor=white)](https://www.synopsys.com/)
 [![PrimeTime](https://img.shields.io/badge/Synopsys-PrimeTime-purple?style=for-the-badge&logo=synopsys&logoColor=white)](https://www.synopsys.com/)
 [![Design Compiler](https://img.shields.io/badge/Synopsys-Design_Compiler-purple?style=for-the-badge&logo=synopsys&logoColor=white)](https://www.synopsys.com/)
+
+
+<p align="left">
+  <a href="https://www.synopsys.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Synopsys_logo.svg" width="80" height="30"/>
+  </a>
+</p>
